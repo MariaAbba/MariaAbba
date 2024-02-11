@@ -79,8 +79,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://images.pond5.com/animated-studying-lo-fi-background-footage-234502952_iconl.jpeg"  />
-</div>
+
 
 ###
